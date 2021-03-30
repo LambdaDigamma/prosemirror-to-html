@@ -14,10 +14,10 @@ class BulletListTest extends TestCase
             'type' => 'doc',
             'content' => [
                 [
-                    'type' => 'bullet_list',
+                    'type' => 'bulletList',
                     'content' => [
                         [
-                            'type' => 'list_item',
+                            'type' => 'listItem',
                             'content' => [
                                 [
                                     'type' => 'text',

@@ -14,7 +14,7 @@ class CodeBlockTest extends TestCase
             'type' => 'doc',
             'content' => [
                 [
-                    'type' => 'code_block',
+                    'type' => 'codeBlock',
                     'content' => [
                         [
                             'type' => 'text',

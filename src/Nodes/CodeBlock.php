@@ -4,6 +4,6 @@ namespace ProseMirrorToHtml\Nodes;
 
 class CodeBlock extends Node
 {
-    protected $nodeType = 'code_block';
+    protected $nodeType = 'codeBlock';
     protected $tagName = ['pre', 'code'];
 }

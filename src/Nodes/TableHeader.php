@@ -4,6 +4,6 @@ namespace ProseMirrorToHtml\Nodes;
 
 class TableHeader extends TableCell
 {
-    protected $nodeType = 'table_header';
+    protected $nodeType = 'tableHeader';
     protected $tagName  = 'th';
 }
